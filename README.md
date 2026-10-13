@@ -1,2 +1,2 @@
-# if-else-programs
-Five Basic C++ programs using if-else statements: Pass or Fail 
+# If-Else-programs
+Basic C++ program using if-else statements: Pass or Fail 
